@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DeliveryApplication<delivery>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.devsuperior.delivery.DeliveryApplication",
+            "projectName": "delivery",
+            "args": ""
+        }
+    ]
+}
