@@ -13,7 +13,7 @@ function Routes() {
                 </Route>
                 <Route path="/">
                     <Home />
-                </Route>
+                </Route> 
             </Switch>
         </BrowserRouter>
     )
